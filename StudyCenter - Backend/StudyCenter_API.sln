@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCenter_API", "StudyCenter_API\StudyCenter_API.csproj", "{AFB532D4-2B48-4568-981A-9ADE86E4CB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCenter_DataAccessLayer", "StudyCenter_DataAccessLayer\StudyCenter_DataAccessLayer.csproj", "{D7B14E24-3419-4183-BA34-C59F507D44D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCenter_BusinessLayer", "StudyCenter_BusinessLayer\StudyCenter_BusinessLayer.csproj", "{C35E44C1-151F-493E-B959-35E95A46FA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB532D4-2B48-4568-981A-9ADE86E4CB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB532D4-2B48-4568-981A-9ADE86E4CB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB532D4-2B48-4568-981A-9ADE86E4CB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB532D4-2B48-4568-981A-9ADE86E4CB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B14E24-3419-4183-BA34-C59F507D44D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B14E24-3419-4183-BA34-C59F507D44D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B14E24-3419-4183-BA34-C59F507D44D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B14E24-3419-4183-BA34-C59F507D44D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35E44C1-151F-493E-B959-35E95A46FA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35E44C1-151F-493E-B959-35E95A46FA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35E44C1-151F-493E-B959-35E95A46FA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35E44C1-151F-493E-B959-35E95A46FA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
